@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 10,
+		"description":"\u00A7eEnables armorstands\nto be rendered with arms"
+    },
+	"authors": {
+		"author_owner": "GamingOnInsulin",
+		"website": "https://gamingoninsulin.github.io/cluster"
+	},
+	"pack_information": {
+		"mincraft_version": "1.19.X"
+	}
+}
